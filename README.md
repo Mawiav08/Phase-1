@@ -13,3 +13,8 @@ You use git clone to be able to download the documents in the GitHub
 ## Installation Requirements
 Git 
 
+## Live link
+https://mawiav08.github.io/Phase-1-codechallenge/
+
+## Technplogies used 
+java script
